@@ -130,3 +130,8 @@ dmypy.json
 
 # MacOS
 .DS_Store
+
+# config file
+**/config_file.py
+__pycache__
+.ipynb_checkpoints
