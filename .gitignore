@@ -135,3 +135,7 @@ dmypy.json
 **/config_file.py
 __pycache__
 .ipynb_checkpoints
+
+# data file
+data/
+**/*.csv
