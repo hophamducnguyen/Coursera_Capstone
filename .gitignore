@@ -137,5 +137,4 @@ __pycache__
 .ipynb_checkpoints
 
 # data file
-data/
 **/*.csv

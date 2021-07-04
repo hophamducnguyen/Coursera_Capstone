@@ -1,0 +1,42 @@
+{
+  "Violent Crime": [
+    "Arson",
+    "Aggravated Assault Firearm",
+    "Aggravated Assault No Firearm",
+    "Other Assaults",
+    "Homicide - Criminal",
+    "Homicide - Criminal ",
+    "Homicide - Gross Negligence",
+    "Homicide - Justifiable ",
+    "Weapon Violations",
+    "Rape",
+    "All Other Offenses",
+    "Offenses Against Family and Children",
+    "Narcotic / Drug Law Violations",
+    "Other Sex Offenses (Not Commercialized)",
+    "Prostitution and Commercialized Vice"
+  ],
+  "Property Crime": [
+    "Receiving Stolen Property",
+    "Recovered Stolen Motor Vehicle",
+    "Theft from Vehicle",
+    "Thefts",
+    "Motor Vehicle Theft",
+    "Robbery Firearm",
+    "Robbery No Firearm",
+    "Burglary Non-Residential",
+    "Burglary Residential",
+    "Vandalism/Criminal Mischief"
+  ],
+  "Financial and Other Crimes": [
+    "Vagrancy/Loitering",
+    "Fraud",
+    "Gambling Violations",
+    "Liquor Law Violations",
+    "Public Drunkenness",
+    "Embezzlement",
+    "DRIVING UNDER THE INFLUENCE",
+    "Forgery and Counterfeiting",
+    "Disorderly Conduct"
+  ]
+}

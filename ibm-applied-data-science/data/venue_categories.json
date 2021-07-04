@@ -1,0 +1,37 @@
+[
+  {
+    "id": "4d4b7104d754a06370d81259",
+    "name": "Arts & Entertainment",
+
+    "icon": "film",
+    "icon_color": "blue"
+  },
+  {
+    "id": "4d4b7105d754a06374d81259",
+    "name": "Food",
+
+    "icon": "cutlery",
+    "icon_color": "orange"
+  },
+  {
+    "id": "4bf58dd8d48988d104941735",
+    "name": "Medical Center",
+
+    "icon": "heart",
+    "icon_color": "red"
+  },
+  {
+    "id": "4d4b7105d754a06376d81259",
+    "name": "Nightlife Spot",
+
+    "icon": "glass",
+    "icon_color": "darkpuple"
+  },
+  {
+    "id": "4d4b7105d754a06378d81259",
+    "name": "Shop & Service",
+
+    "icon": "shopping-cart",
+    "icon_color": "green"
+  }
+]
